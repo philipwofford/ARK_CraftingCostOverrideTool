@@ -11,7 +11,7 @@
 # You can hit me up at throwaway.nonsense.nope@gmail.com
 #############################################################################
 
-echo -e "Copy and paste everything below this line into your Game.ini\n" > configOverRides.txt
+echo -e "Copy and paste everything below this line into your Game.ini\n" > configOverrides.txt
 
 function generateResourceBlock { 
 	RESOURCE_REQUIREMENT_BLOCK="BaseCraftingResourceRequirements=("
@@ -233,6 +233,6 @@ do
 
 		OVERRIDE_ITEM_CRAFTING_COSTS="ConfigOverrideItemCraftingCosts=(ItemClassString=\"${ITEM_CLASS_STRING}\",${RESOURCE_REQUIREMENT_BLOCK})"
 
-		echo -e "${OVERRIDE_ITEM_CRAFTING_COSTS}\n" >> configOverRides.txt
+		echo -e "${OVERRIDE_ITEM_CRAFTING_COSTS}\n" >> configOverrides.txt
 	done
 done

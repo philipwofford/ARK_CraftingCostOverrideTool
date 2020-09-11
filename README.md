@@ -1,5 +1,5 @@
 # ARK Crafting Cost Override Tool
-This is a simple script that, when ran, will generate the override codes that should be placed in the Game.ini file on your ARK server, for:
+This is a simple script that, when ran, will generate the override codes that should be placed in the Game.ini file on your ARK server, for the following materials and structures:
 
 ### Materials 
 - Wood
@@ -15,6 +15,10 @@ This is a simple script that, when ran, will generate the override codes that sh
 - Ceilings
 - Doors and Double Doors
 - Door and Double Door Frames
+
+The script is hopefully easy to skim over, even if you are not into coding. While I probably did far from a perfect job in the last 10 hours I non-stop-slapped this together, I tried to make it easy to understand, without relying too heavily on comments. A lot of my design and syntax and style choices were with 'noob eyes' in mind. I might have made some things too complicated, some things too simple, or I might have stylistic inconsistencies that make it hard to read, but I think you will agree with me on this:
+
+This script is not trying to make http calls, access the internet, change any files on your system (besides the creation of configOverrides.txt)
 
 ## Utility
 
