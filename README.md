@@ -23,8 +23,10 @@ Currently, if you wanted to play with 50% crafting costs on the items that this 
 ```bash
 # change the permissions
 $ chmod +x overridesGenerator.sh
+
 # execute the file with 50 as an argument to mean 50% (defaults to 100 or 100%)
 $ ./overridesGenerator.sh 50
+
 # the code for the arg is on line 72 in overridesGenerator.sh
 ``` 
 
