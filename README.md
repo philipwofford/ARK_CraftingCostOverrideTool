@@ -1,10 +1,12 @@
 # ARK Crafting Cost Override Tool
-This is a simple script that, when ran, will generate the override codes that should be placed in the Game.ini file on your ARK server, for the following materials and structures:
+This is a simple script that, when ran, will generate the override codes that should be placed in the Game.ini file on your ARK server, for:
 
+### Materials 
 - Wood
 - Stone
 - Greenhouse
 
+### Structures 
 - Foundations
 - Pillars
 - Walls
