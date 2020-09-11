@@ -38,7 +38,7 @@ $ ./overridesGenerator.sh 50
 
 ## Project Goals
 
-The initial functionality suits my personal needs, but I enjoy working on this, and so I set out with the intention to build this in a way that (or others) can build upon it to make it more holistic, and smarter. Some ideas I'm kicking around to implement:
+The initial functionality suits my personal needs, but I enjoy working on this, and so I set out with the intention to build this in a way that can be built upon upon it to make it more holistic, and smarter. Some ideas I'm kicking around to implement:
 
 - I wrote this on a mac, and don't have a windows machine at my disposal... if anyone thinks this is worth the time to do a Windows compatible refactor in the short term, that'd be great, otherwise I will eventually update this to detect OS/UNIX/POSIX/etc to be easier and more inclusive
 
