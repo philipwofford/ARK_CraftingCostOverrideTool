@@ -18,7 +18,7 @@ This is a simple script that, when ran, will generate the override codes that sh
 
 The script is hopefully easy to skim over, even if you are not into coding. While I probably did far from a perfect job in the last 10 hours I non-stop-slapped this together, I tried to make it easy to understand, without relying too heavily on comments. A lot of my design and syntax and style choices were with 'noob eyes' in mind. I might have made some things too complicated, some things too simple, or I might have stylistic inconsistencies that make it hard to read, but I think you will agree with me on this:
 
-This script is not trying to make http calls, access the internet, change any files on your system (besides the creation of configOverrides.txt which is where you copy the settings from to go into your Game.ini), or anything weird or hackery. It's just making a file for you. A plain text file.
+This script is not trying to make http calls, access the internet, change any files on your system (besides the creation of 'configOverrides.txt' which is where you copy the settings from to go into your Game.ini), or anything weird or hackery. It's just making a file for you. A plain text file.
 
 I'm only bringing this up because I felt like a lot of the tools out there for this sort of thing involve going to 'strange' websites, where I feel users are inherently more at risk. You can use this tool offline. 
 
